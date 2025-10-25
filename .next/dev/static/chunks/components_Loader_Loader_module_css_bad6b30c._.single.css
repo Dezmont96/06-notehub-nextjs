@@ -1,0 +1,28 @@
+/* [project]/components/Loader/Loader.module.css [app-client] (css) */
+.Loader-module__ciLxHG__loaderWrapper {
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  display: flex;
+}
+
+.Loader-module__ciLxHG__loader {
+  border: 5px solid #f3f3f3;
+  border-top-color: #3498db;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  animation: 1s linear infinite Loader-module__ciLxHG__spin;
+}
+
+@keyframes Loader-module__ciLxHG__spin {
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*# sourceMappingURL=components_Loader_Loader_module_css_bad6b30c._.single.css.map*/

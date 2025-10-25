@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/notes/[id]/NoteDetails.module.css"],"sourcesContent":[".container {\n  max-width: 800px;\n  margin: 32px auto;\n  padding: 24px;\n  background-color: #ffffff;\n  border-radius: 8px;\n  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);\n}\n\n.item {\n  display: flex;\n  flex-direction: column;\n  gap: 16px;\n}\n\n.header {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  border-bottom: 1px solid #ddd;\n  padding-bottom: 8px;\n}\n\n.header h2 {\n  margin: 0;\n  font-size: 28px;\n  color: #333;\n}\n\n.content {\n  font-size: 18px;\n  line-height: 26px;\n  color: #444;\n  white-space: pre-wrap;\n}\n\n.date {\n  font-size: 14px;\n  color: #888;\n  text-align: right;\n}\n\n.tag {\n  display: inline-block;\n  padding: 4px 8px;\n  font-size: 12px;\n  color: #0d6efd;\n  background-color: #e7f1ff;\n  border: 1px solid #b6d4fe;\n  border-radius: 12px;\n  max-width: 100px;\n  white-space: nowrap;\n  overflow: hidden;\n  text-overflow: ellipsis;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;;AAMA;;;;;;;;AAQA;;;;;;AAMA;;;;;;;AAOA;;;;;;AAMA"}}]
+}

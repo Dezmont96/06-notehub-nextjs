@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/ErrorMessage/ErrorMessage.module.css"],"sourcesContent":[".error {\r\n  padding: 16px;\r\n  color: #c70000;\r\n  text-align: center;\r\n  font-size: 18px;\r\n  font-weight: 500;\r\n}\r\n"],"names":[],"mappings":"AAAA"}}]
+}

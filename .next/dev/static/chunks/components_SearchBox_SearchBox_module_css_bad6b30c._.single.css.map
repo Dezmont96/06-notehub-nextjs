@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/SearchBox/SearchBox.module.css"],"sourcesContent":[".input {\n  flex: 1;\n  max-width: 240px;\n  padding: 6px 12px;\n  font-size: 16px;\n  border: 1px solid #ced4da;\n  border-radius: 4px;\n}\n"],"names":[],"mappings":"AAAA"}}]
+}

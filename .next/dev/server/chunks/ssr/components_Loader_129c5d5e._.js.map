@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/components/Loader/Loader.module.css [app-ssr] (css module)"],"sourcesContent":["__turbopack_context__.v({\n  \"loader\": \"Loader-module__ciLxHG__loader\",\n  \"loaderWrapper\": \"Loader-module__ciLxHG__loaderWrapper\",\n  \"spin\": \"Loader-module__ciLxHG__spin\",\n});\n"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA"}},
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file:///E:/project%20groop/06-notehub-nextjs/components/Loader/Loader.tsx"],"sourcesContent":["'use client';\r\n\r\nimport css from './Loader.module.css';\r\n\r\nconst Loader = () => {\r\n  return (\r\n    <div className={css.loaderWrapper}>\r\n      <div className={css.loader}></div>\r\n    </div>\r\n  );\r\n};\r\n\r\nexport default Loader;"],"names":[],"mappings":";;;;;AAEA;AAFA;;;AAIA,MAAM,SAAS;IACb,qBACE,8OAAC;QAAI,WAAW,qJAAG,CAAC,aAAa;kBAC/B,cAAA,8OAAC;YAAI,WAAW,qJAAG,CAAC,MAAM;;;;;;;;;;;AAGhC;uCAEe","debugId":null}}]
+}
